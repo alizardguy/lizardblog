@@ -1,2 +1,2 @@
 My blog
-- bundle add webrick
+- bundle exec jekyll serve
