@@ -10,3 +10,6 @@ Lizard blog v2 should now be running! My next goal will be to setup the subdomai
 # Places I am
 - [My Bluesky](https://bsky.app/profile/alizardguy.com)
 - [My Twitter](https://x.com/alizardguy)
+
+# My plans for this site
+I plan to build out the main alizardguy.com and blog.alizardguy.com as two seperate codebases that reference eachother, this blog will likely be updated much more often than the main site.
