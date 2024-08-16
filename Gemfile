@@ -12,6 +12,8 @@ end
 gem 'tzinfo'
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
+gem 'jekyll-compose', group: [:jekyll_plugins]
+
 require 'bundler/inline'
 
 
