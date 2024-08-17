@@ -2,7 +2,7 @@
 layout: post
 title: Shooty Shooty Test Game
 date: 2024-08-16 21:17 -0700
-categories: gamedev concepts
+categories: game_dev concepts
 tags: Godot
 ---
 ## Intro

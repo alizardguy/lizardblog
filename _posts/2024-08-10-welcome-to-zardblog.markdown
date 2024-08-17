@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello Site"
 date:   2024-08-10 23:35:10 -0700
-categories: blog update
+categories: web_dev blog
 tags: jekyll update blog
 ---
 ## It's alive!!!
