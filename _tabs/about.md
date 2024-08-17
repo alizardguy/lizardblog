@@ -4,4 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Welcome to my site
+Welcome to my blog where I post about whatever current has my attention.
