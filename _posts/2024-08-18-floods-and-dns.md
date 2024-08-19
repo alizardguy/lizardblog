@@ -3,7 +3,7 @@ layout: post
 title: Floods and DNS
 date: 2024-08-18 21:59 -0700
 categories: life log
-tags: Irl Life DNS
+tags: Irl DNS
 ---
 
 ## The flood
