@@ -3,7 +3,7 @@ layout: post
 title: Setting Up
 date: 2024-08-16 00:15 -0700
 categories: life log
-tags: blog update site github
+tags: Blog Update Site Github
 ---
 
 ## Life Logs
