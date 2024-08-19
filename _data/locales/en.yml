@@ -20,11 +20,11 @@ tabs:
 search:
   hint: search
   cancel: Cancel
-  no_results: Oops! No results found.
+  no_results: No results found.
 
 panel:
   lastmod: Recently Updated
-  trending_tags: Trending Tags
+  trending_tags: Popular Tags
   toc: Contents
 
 copyright:
@@ -35,15 +35,15 @@ copyright:
     link: https://creativecommons.org/licenses/by-sa/4.0/
 
   # Displayed in the footer
-  brief: Some rights reserved.
+  brief: Some rights reserved!
   verbose: >-
     Except where otherwise noted, the blog posts on this site are licensed
     under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License by the author.
 
-meta: Using the :THEME theme for :PLATFORM.
+meta: Made with :THEME for :PLATFORM.
 
 not_found:
-  statement: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+  statement: Sorry, this URL doesn't exist.
 
 notification:
   update_found: A new version of content is available!
