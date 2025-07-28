@@ -7,7 +7,7 @@ tags: YouTube Pokemon Blog
 ---
 Sorry I haven’t posted in around.. 9 months.. Here is a scattered collection of what I have been up to in the past 9 months.
 # YouTube
-In May I uploaded a [video](https://youtu.be/U8ztd_7Y2mw?si=9OBhcLvGgiieXNOc) stating my intention to create 21 videos before the end of 2025. Currently I have uploaded 6, with the [most popular video](https://youtu.be/PF59CLMJT3Q?si=Vl50E0yb3cboT7sN) reaching 2.3K views. The year is rapidly apporaching it's end I to keep pace I need to significantly increase my video output rate. Currently I been uploading random Minecraft videos, but I hope to soon pivot to more high effort stuff. (It just been slow remembering how to speak)
+In May I uploaded a [video](https://youtu.be/U8ztd_7Y2mw?si=9OBhcLvGgiieXNOc) stating my intention to create 21 videos before the end of 2025. Currently I have uploaded 6, with the [most popular video](https://youtu.be/PF59CLMJT3Q?si=Vl50E0yb3cboT7sN) reaching 2.3K views. The year is rapidly apporaching it's end, and to keep pace I need to significantly increase my video output rate. Currently I been uploading random Minecraft videos, but I hope to soon pivot to more high effort stuff. (It just been slow remembering how to speak)
 # Godot
 I am still working on a secret Godot game that I will hopefully reveal at a later date... 🤫
 # Pokémon
