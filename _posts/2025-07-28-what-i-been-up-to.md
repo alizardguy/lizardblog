@@ -3,6 +3,7 @@ layout: post
 title: What I been up to
 date: 2025-07-28 13:49 -0700
 categories: life log
+tags: Irl Pokemon Blog
 ---
 Sorry I haven’t posted in around.. 9 months.. Here is a scattered collection of what I have been up to in the past 9 months.
 # YouTube
