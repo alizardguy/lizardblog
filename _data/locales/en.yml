@@ -20,7 +20,7 @@ tabs:
 search:
   hint: search
   cancel: Cancel
-  no_results: No results found.
+  no_results: No results found!
 
 panel:
   lastmod: Recently Updated
@@ -60,7 +60,7 @@ post:
   read_time:
     unit: min
     prompt: read
-  relate_posts: Further Reading
+  relate_posts: Other Stuff
   share: Share
   button:
     next: Newer
