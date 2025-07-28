@@ -23,10 +23,10 @@ description: >- # used by seo meta and the atom feed
 
 
 github:
-  username: alizardguy # change to your github username
+  username: alizardguy 
 
-twitter:
-  username: alizardguy # change to your twitter username
+bluesky:
+  username: alizardguy.com 
 
 social:
   # Change to your full name.
@@ -35,7 +35,6 @@ social:
   email: lizbizcontact@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/alizardguy # change to your twitter homepage
     - https://github.com/alizardguy # change to your github homepage
 
 # Site Verification Settings
