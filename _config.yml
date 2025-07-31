@@ -35,7 +35,7 @@ social:
   email: lizbizcontact@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/alizardguy # change to your github homepage
+    - https://github.com/alizardguy
 
 # Site Verification Settings
 webmaster_verifications:
@@ -86,7 +86,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: blog.alizardguy.com
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://github.com/alizardguy.png
